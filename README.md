@@ -1,6 +1,7 @@
 # ApiAutomationTest
 
 Demo project to test the Google URL Shortener API
+Implemented Apache HttpComponents and Cucumber
 
 Methods:
 POST /urlshortener/v1/url
